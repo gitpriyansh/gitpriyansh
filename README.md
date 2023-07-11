@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is PRIYANSH GUPTA and I'm a WEB DEVELOPER, from INDIA</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since 2016 <br>📚 I'm currently learning DJANGO<br>🎯 Goals: FULL STACK DEVELOPER<br>🎲 Fun fact: I'M FUNNY</p>
 
 ###
 
