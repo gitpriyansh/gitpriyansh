@@ -35,6 +35,7 @@
 ###
 
 <div align="left">
+  [![An image of @priyanshg21's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/priyanshg21)](https://holopin.io/@priyanshg21)
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" height="40" alt="babel logo"  />
